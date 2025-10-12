@@ -55,7 +55,6 @@ These tools help you manage your network, track your follower growth, and curate
 | [Bluesky Tracker](https://bluesky-tracker.extensionsfox.com/) | A browser extension that provides follower analysis, batch unfollow capabilities, and ghost follower detection. |
 | [Bluepeers](https://bluepeers.app/) | A Chrome extension for engagement analysis to help you find and focus on your most active Bluesky peers. |
 | [TipTopBot](https://tiptopbot.com) | Lists followers or follows for any Bluesky handle, with the ability to export the data to a CSV file. |
-| [Blockenheimer](https://blockenheimer.click/) | A powerful tool to quickly mass block or mute users based on who has liked or reposted a specific post. |
 | [Byesky](https://byesky.pirhoo.com/) | A tool to easily clean up your following list, specifically targeting non-mutuals or allowing you to delete all subscriptions. |
 | [clearfollow-bsky](https://cleanfollow-bsky.pages.dev/) | A utility to help you unfollow inactive or blocked accounts to keep your network current. |
 | [ClearSky Search Tool](https://clearsky.app/) | A multi-function tool to see who is blocking you, who a user is blocking, and to look up user DIDs. |
@@ -140,7 +139,6 @@ A collection of useful, diverse tools for various other Bluesky tasks.
 | [SkyTools](https://skytools.anon5r.com/) | A utility for looking up a user's handle history and DID (Decentralized Identifier). |
 | [did:plc Tracker](https://plc-handle-tracker.kpherox.dev/) | A tool to track changes and look up information related to `did:plc` and atproto handles. |
 | [Skywriter.blue](https://skywriter.blue/) | Converts Bluesky threads into an easy-to-read webpage format for sharing outside the app. |
-| [bannerizer](https://bannerizer.glitch.me/) | A simple utility to easily crop or resize an image to the correct dimensions for a Bluesky banner. |
 | [SkyPicker](https://skypicker.site/) | A tool to reliably run raffles, giveaways, and contests on Bluesky posts. |
 | [Bluesky-likes](https://luizzeroxis.github.io/bluesky-likes/) | A simple web page to see the posts that a specified user has liked. |
 | [Woosh.link](https://woosh.link/) | A service for effortless link sharing, creating optimized short links for Bluesky and beyond. |
