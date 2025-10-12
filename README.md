@@ -143,3 +143,4 @@ A collection of useful, diverse tools for various other Bluesky tasks.
 | [Bluesky-likes](https://luizzeroxis.github.io/bluesky-likes/) | A simple web page to see the posts that a specified user has liked. |
 | [Woosh.link](https://woosh.link/) | A service for effortless link sharing, creating optimized short links for Bluesky and beyond. |
 | [Social Media Bot (Pelock)](https://www.pelock.com/products/social-media-bot) | A Windows application to automate activities like post likes, reposts, follows/unfollows, and comment likes. |
+| [Wamellow](https://wamellow.com/) | Add Bluesky notifications to yor Discord server. |
