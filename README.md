@@ -133,6 +133,7 @@ A collection of useful, diverse tools for various other Bluesky tasks.
 | [AT Webhooks](https://atprotowebhooks.com) | A service that acts as a generally programmable firehose-to-webhook server, useful for developers and automation. |
 | [Bluesky Firehose in 3D](https://firehose3d.theo.io/) | A unique, live visualization that shows every post on the network in a 3D environment. |
 | [Bluesky Firehose in VR](https://vrchat.com/home/world/wrld_52865286-5286-5286-5286-528652865286/info) | A VRChat world that displays a live, real-time 3D view of all posts on the Bluesky network. |
+| [Bluesky Scraper](https://apify.com/cryptosignals/bluesky-scraper) | A free, no-code scraper for Bluesky posts and profiles using the AT Protocol API. Supports keyword search, profile scraping, and exports to JSON, CSV, or Excel. |
 | [TipTopBot](https://tiptopbot.com) | Lists followers or follows for any Bluesky handle, with the ability to export the data to a CSV file. |
 | [Skyname](https://skyna.me) | A username registrar that provides custom handle domains like `.bsky.cool` and `.tired.io`. |
 | [Vanity Blue](https://vanity.blue/) | Another custom handle provider for registering personal or branded domains to use as your Bluesky handle. |
