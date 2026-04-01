@@ -142,5 +142,5 @@ A collection of useful, diverse tools for various other Bluesky tasks.
 | [SkyPicker](https://skypicker.site/) | A tool to reliably run raffles, giveaways, and contests on Bluesky posts. |
 | [Bluesky-likes](https://luizzeroxis.github.io/bluesky-likes/) | A simple web page to see the posts that a specified user has liked. |
 | [Woosh.link](https://woosh.link/) | A service for effortless link sharing, creating optimized short links for Bluesky and beyond. |
-| [Social Media Bot (Pelock)](https://www.pelock.com/products/social-media-bot) | A Windows application to automate activities like post likes, reposts, follows/unfollows, and comment likes. |
+| [Social Media Bot (PELock)](https://www.pelock.com/products/social-media-bot) | A broser extension (Chrome, Edge, Firefox) to automate activities like post likes, reposts, follows/unfollows, and comment likes. |
 | [Wamellow](https://wamellow.com/) | Add Bluesky notifications to yor Discord server. |
