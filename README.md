@@ -34,6 +34,7 @@ Tools to help you create, schedule, edit, and organize your content on Bluesky.
 
 | Tool | Description |
 | :--- | :--- |
+| [PostPolish](https://postpolish.featherapps.online) | A Chrome extension that adds a Polish button to the composer, tightening drafts to fit 300 characters and fixing typos without changing your voice. |
 | [Bluesky Scheduler](https://www.blueskyscheduler.com/) | A popular tool for drafting and scheduling posts to ensure content is published at optimal times. |
 | [longer.blue](https://longer.blue) | Allows users to write and post content longer than the default character limit by automatically splitting it into a thread. |
 | [Bluesky Thread Composer](https://bluesky-thread-composer.pages.dev/) | An easy-to-use tool for writing long-form content, with an option to split large posts into a coherent thread. |
