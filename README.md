@@ -35,6 +35,7 @@ Tools to help you create, schedule, edit, and organize your content on Bluesky.
 | Tool | Description |
 | :--- | :--- |
 | [Bluesky Scheduler](https://www.blueskyscheduler.com/) | A popular tool for drafting and scheduling posts to ensure content is published at optimal times. |
+| [ONYX](https://onyxhq.us) | A Bluesky-native post scheduler built on the AT Protocol with AI-assisted drafting in your voice, analytics, a free no-login post generator, and ~27 free Bluesky tools. Flat $7/month with a free tier. |
 | [longer.blue](https://longer.blue) | Allows users to write and post content longer than the default character limit by automatically splitting it into a thread. |
 | [Bluesky Thread Composer](https://bluesky-thread-composer.pages.dev/) | An easy-to-use tool for writing long-form content, with an option to split large posts into a coherent thread. |
 | [SkySweeper](https://skysweeper.p8.lu/) | An essential tool to automatically delete your old posts after a set period, helping manage your content archive. |
