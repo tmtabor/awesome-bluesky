@@ -37,6 +37,7 @@ Tools to help you create, schedule, edit, and organize your content on Bluesky.
 | [Bluesky Scheduler](https://www.blueskyscheduler.com/) | A popular tool for drafting and scheduling posts to ensure content is published at optimal times. |
 | [longer.blue](https://longer.blue) | Allows users to write and post content longer than the default character limit by automatically splitting it into a thread. |
 | [Bluesky Thread Composer](https://bluesky-thread-composer.pages.dev/) | An easy-to-use tool for writing long-form content, with an option to split large posts into a coherent thread. |
+| [Social media studio](https://so-me.studio) | Draft, schedule, and publish Bluesky posts and threads alongside other social accounts, with AI caption writing and a shared content calendar. |
 | [SkySweeper](https://skysweeper.p8.lu/) | An essential tool to automatically delete your old posts after a set period, helping manage your content archive. |
 | [PostPocket](https://apps.apple.com/au/app/postpocket-save-read-later/id6670723615) | An iOS mobile app designed for bookmarking and saving Bluesky posts to read later. |
 | [Profile Cleaner](https://bsky.jazco.dev/cleanup) | A utility to quickly clean up old activity from your account, including posts, likes, and reposts. |
