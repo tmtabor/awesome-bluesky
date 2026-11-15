@@ -42,6 +42,7 @@ Tools to help you create, schedule, edit, and organize your content on Bluesky.
 | [Profile Cleaner](https://bsky.jazco.dev/cleanup) | A utility to quickly clean up old activity from your account, including posts, likes, and reposts. |
 | [bluesky-crossposter](https://github.com/Linus2punkt0/bluesky-crossposter) | A Python script that automatically crossposts your Bluesky content to other platforms like Twitter/X and Mastodon. |
 | [bskylog](https://github.com/hidea/app_bskylog) | A self-hosted tool that keeps a local, verifiable copy of all your Bluesky posts for backup and archival. |
+| [TidySky](https://tidysky.io) | See who fills your feed, find inactive and deleted follows, and unfollow in bulk with undo. Signs in through Bluesky's own page (no app password) and runs in your browser with no server. |
 
 ---
 
