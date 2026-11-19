@@ -136,6 +136,7 @@ A collection of useful, diverse tools for various other Bluesky tasks.
 | [TipTopBot](https://tiptopbot.com) | Lists followers or follows for any Bluesky handle, with the ability to export the data to a CSV file. |
 | [Skyname](https://skyna.me) | A username registrar that provides custom handle domains like `.bsky.cool` and `.tired.io`. |
 | [Vanity Blue](https://vanity.blue/) | Another custom handle provider for registering personal or branded domains to use as your Bluesky handle. |
+| [Bluesky.bot](https://bluesky.bot) | Gives Bluesky bots a free domain handle and lets their creators list them in a public directory. |
 | [SkyTools](https://skytools.anon5r.com/) | A utility for looking up a user's handle history and DID (Decentralized Identifier). |
 | [did:plc Tracker](https://plc-handle-tracker.kpherox.dev/) | A tool to track changes and look up information related to `did:plc` and atproto handles. |
 | [Skywriter.blue](https://skywriter.blue/) | Converts Bluesky threads into an easy-to-read webpage format for sharing outside the app. |
